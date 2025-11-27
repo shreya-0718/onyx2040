@@ -1,2 +1,4 @@
 # Onyx2040
-an rp2040 devboard!
+This is devboard with the RP2040 chip!
+
+
