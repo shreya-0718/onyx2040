@@ -48,4 +48,4 @@ This is what the **final devboard** will look like:
 | Crystal         | Quartz resonator, 12 MHz     | 1   | https://jlcpcb.com/partdetail/YXC_CrystalOscillators-X322512MSB4SI/C9002 | $0.32 | $10.74 |
 | Conn_01x03      | 1x03 Pin Header              | 1   | https://www.lcsc.com/product-detail/C42431804.html         | $0.00 | $10.74 |
 | Conn_01x20      | 1x20 Pin Headers             | 2   | https://www.lcsc.com/product-detail/C42431804.html         | $0.17 | $10.91 |
-| Onyx2040 PCBA   | Board assembly               | 1   | https://cart.jlcpcb.com/                                    | $64.80 | $76.13 |
+| Onyx2040 PCBA   | Board assembly               | 1   | https://cart.jlcpcb.com/                                    | $43.94 | $54.85 |
